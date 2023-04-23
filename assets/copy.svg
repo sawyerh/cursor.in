@@ -1,108 +1,254 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="28px" height="40px" viewBox="0 0 28 40" enable-background="new 0 0 28 40" xml:space="preserve">
-<g>
-	<defs>
-		<path id="SVGID_1_" d="M5,25c0,4.969,4.029,9,9,9c4.966,0,9-4.031,9-9c0-4.966-4.033-9-9-9C9.029,16,5,20.033,5,25"/>
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="28px"
+   height="40px"
+   viewBox="0 0 28 40"
+   enable-background="new 0 0 28 40"
+   xml:space="preserve"
+   sodipodi:docname="copy.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs82" /><sodipodi:namedview
+   id="namedview80"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="13.375"
+   inkscape:cx="13.981308"
+   inkscape:cy="11.364486"
+   inkscape:window-width="1366"
+   inkscape:window-height="715"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<g
+   id="g47">
+	<defs
+   id="defs20">
+		<rect
+   id="SVGID_4_"
+   x="1"
+   y="1"
+   width="25"
+   height="37" />
 	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	<clipPath
+   id="SVGID_5_">
+		<use
+   xlink:href="#SVGID_4_"
+   overflow="visible"
+   id="use22" />
 	</clipPath>
-	
-		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1.771" y1="43.4585" x2="2.7705" y2="43.4585" gradientTransform="matrix(0 -18.0083 18.0083 0 -768.6183 65.895)">
-		<stop  offset="0" style="stop-color:#88C540"/>
-		<stop  offset="0.5" style="stop-color:#419143"/>
-		<stop  offset="1" style="stop-color:#182E18"/>
-	</linearGradient>
-	<rect x="5" y="16" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="18" height="18"/>
-</g>
-<g>
-	<defs>
-		<rect id="SVGID_4_" x="1" y="1" width="25" height="37"/>
-	</defs>
-	<clipPath id="SVGID_5_">
-		<use xlink:href="#SVGID_4_"  overflow="visible"/>
-	</clipPath>
-	<g opacity="0.7" clip-path="url(#SVGID_5_)">
-		<g>
-			<defs>
-				<rect id="SVGID_6_" x="6.984" y="19.01" width="14.16" height="14.16"/>
+	<g
+   opacity="0.7"
+   clip-path="url(#SVGID_5_)"
+   id="g45">
+		<g
+   id="g43">
+			<defs
+   id="defs26">
+				<rect
+   id="SVGID_6_"
+   x="6.984"
+   y="19.01"
+   width="14.16"
+   height="14.16" />
 			</defs>
-			<clipPath id="SVGID_7_">
-				<use xlink:href="#SVGID_6_"  overflow="visible"/>
+			<clipPath
+   id="SVGID_7_">
+				<use
+   xlink:href="#SVGID_6_"
+   overflow="visible"
+   id="use28" />
 			</clipPath>
-			<g clip-path="url(#SVGID_7_)">
-				<defs>
-					<rect id="SVGID_8_" x="6.984" y="19.01" width="14.16" height="14.16"/>
+			<g
+   clip-path="url(#SVGID_7_)"
+   id="g41">
+				<defs
+   id="defs32">
+					<rect
+   id="SVGID_8_"
+   x="6.984"
+   y="19.01"
+   width="14.16"
+   height="14.16" />
 				</defs>
-				<clipPath id="SVGID_9_">
-					<use xlink:href="#SVGID_8_"  overflow="visible"/>
+				<clipPath
+   id="SVGID_9_">
+					<use
+   xlink:href="#SVGID_8_"
+   overflow="visible"
+   id="use34" />
 				</clipPath>
-				<g transform="matrix(1 0 0 1 4.768372e-07 1.907349e-06)" clip-path="url(#SVGID_9_)">
+				<g
+   transform="matrix(1 0 0 1 4.768372e-07 1.907349e-06)"
+   clip-path="url(#SVGID_9_)"
+   id="g39">
 					
-						<image overflow="visible" width="59" height="59" xlink:href="data:image/png;base64,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
-SUVORK5CYII=" transform="matrix(0.24 0 0 0.24 6.9839 19.0098)">
+						<image
+   overflow="visible"
+   width="59"
+   height="59"
+   xlink:href="data:image/png;base64,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 SUVORK5CYII="
+   transform="matrix(0.24 0 0 0.24 6.9839 19.0098)"
+   id="image37">
 					</image>
 				</g>
 			</g>
 		</g>
 	</g>
 </g>
-<rect x="10" y="24" fill="#FFFFFF" width="8" height="2"/>
-<rect x="13" y="21" fill="#FFFFFF" width="2" height="8"/>
-<polygon fill="#FFFFFF" points="4,18.422 4,2.406 15.591,14.025 8.55,14.025 8.399,14.149 "/>
-<polygon fill="#010101" points="5,4.813 5,16.002 7.969,13.136 8.129,12.996 13.165,12.996 "/>
-<g>
-	<defs>
-		<path id="SVGID_10_" d="M7,22.931c0.027,2.199,3.133,2.723,7.003,2.723c3.864,0,6.997-0.529,6.997-2.723
-			C21,19.655,17.867,17,14.003,17C10.133,17,6.958,19.625,7,22.931"/>
+
+
+
+<g
+   id="g378"
+   transform="translate(-4,-2.406)"><g
+     id="g355"><g
+       id="g17">
+	<defs
+   id="defs3">
+		<path
+   id="SVGID_1_"
+   d="m 5,25 c 0,4.969 4.029,9 9,9 4.966,0 9,-4.031 9,-9 0,-4.966 -4.033,-9 -9,-9 -4.971,0 -9,4.033 -9,9" />
 	</defs>
-	<clipPath id="SVGID_11_">
-		<use xlink:href="#SVGID_10_"  overflow="visible"/>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use5" />
 	</clipPath>
-	<defs>
-		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="6.958" y="17" width="14.042" height="8.654">
-			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
-			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	
+		<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="1.771"
+   y1="43.4585"
+   x2="2.7704999"
+   y2="43.4585"
+   gradientTransform="matrix(0,-18.0083,18.0083,0,-768.6183,65.895)">
+		<stop
+   offset="0"
+   style="stop-color:#88C540"
+   id="stop8" />
+		<stop
+   offset="0.5"
+   style="stop-color:#419143"
+   id="stop10" />
+		<stop
+   offset="1"
+   style="stop-color:#182E18"
+   id="stop12" />
+	</linearGradient>
+	<rect
+   x="5"
+   y="16"
+   clip-path="url(#SVGID_2_)"
+   fill="url(#SVGID_3_)"
+   width="18"
+   height="18"
+   id="rect15"
+   style="fill:url(#SVGID_3_)" />
+</g><g
+       id="g340"><rect
+         x="10"
+         y="24"
+         fill="#ffffff"
+         width="8"
+         height="2"
+         id="rect49" /><rect
+         x="13"
+         y="21"
+         fill="#ffffff"
+         width="2"
+         height="8"
+         id="rect51" /></g></g><g
+     id="g359"><polygon
+       fill="#ffffff"
+       points="4,2.406 15.591,14.025 8.55,14.025 8.399,14.149 4,18.422 "
+       id="polygon53" /><polygon
+       fill="#010101"
+       points="5,16.002 7.969,13.136 8.129,12.996 13.165,12.996 5,4.813 "
+       id="polygon55" /></g></g>
+<g
+   id="g77">
+	<defs
+   id="defs58">
+		<path
+   id="SVGID_10_"
+   d="M7,22.931c0.027,2.199,3.133,2.723,7.003,2.723c3.864,0,6.997-0.529,6.997-2.723    C21,19.655,17.867,17,14.003,17C10.133,17,6.958,19.625,7,22.931" />
+	</defs>
+	<clipPath
+   id="SVGID_11_">
+		<use
+   xlink:href="#SVGID_10_"
+   overflow="visible"
+   id="use60" />
+	</clipPath>
+	<defs
+   id="defs68">
+		<filter
+   id="Adobe_OpacityMaskFilter"
+   filterUnits="userSpaceOnUse"
+   x="6.958"
+   y="17"
+   width="14.042"
+   height="8.654">
+			<feFlood
+   style="flood-color:white;flood-opacity:1"
+   result="back"
+   id="feFlood63" />
+			<feBlend
+   in="SourceGraphic"
+   in2="back"
+   mode="normal"
+   id="feBlend65" />
 		</filter>
 	</defs>
-	<mask maskUnits="userSpaceOnUse" x="6.958" y="17" width="14.042" height="8.654" id="SVGID_12_">
-		<g filter="url(#Adobe_OpacityMaskFilter)">
-			<g enable-background="new    ">
+	<mask
+   maskUnits="userSpaceOnUse"
+   x="6.958"
+   y="17"
+   width="14.042"
+   height="8.654"
+   id="SVGID_12_">
+		<g
+   filter="url(#Adobe_OpacityMaskFilter)"
+   id="g72">
+			<g
+   enable-background="new    "
+   id="g70">
 			</g>
 		</g>
 	</mask>
 	
-		<rect x="6.958" y="17" opacity="0.3" clip-path="url(#SVGID_11_)" mask="url(#SVGID_12_)" fill="#F1F2F2" width="14.042" height="8.654"/>
+		<rect
+   x="6.958"
+   y="17"
+   opacity="0.3"
+   clip-path="url(#SVGID_11_)"
+   mask="url(#SVGID_12_)"
+   fill="#F1F2F2"
+   width="14.042"
+   height="8.654"
+   id="rect75" />
 </g>
 </svg>
